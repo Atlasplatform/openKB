@@ -25,6 +25,7 @@
         "links_blank_page": true,
         "database": {
             "type": "mongodb"
+            "connection_string": "MONGODB_URI"
         },
         "allow_voting": true,
         "google_analytics": "",
