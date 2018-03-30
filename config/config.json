@@ -25,7 +25,7 @@
         "links_blank_page": true,
         "database": {
             "type": "mongodb"
-            "connection_string": "MONGODB_URI"
+            "connection_string": "mongodb://heroku_7nlt9sn7:5j0e446rjs71oh5drc0c6gdabv@ds137464.mlab.com:37464/heroku_7nlt9sn7"
         },
         "allow_voting": true,
         "google_analytics": "",
