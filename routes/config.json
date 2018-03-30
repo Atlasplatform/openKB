@@ -1,4 +1,4 @@
 "database": {
     "type": "mongodb",
-    "connection_string": "process.env.MONGOLAB_URI"
+    "connection_string": MONGODB_CONNECTION_STRING
 }
