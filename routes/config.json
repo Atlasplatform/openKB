@@ -1,4 +1,0 @@
-"database": {
-    "type": "mongodb",
-    "connection_string": "MONGODB_CONNECTION_STRING"
-}
